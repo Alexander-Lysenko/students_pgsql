@@ -1,1 +1,1 @@
-# students_pgsql
+# PostgreSQL-lysenko
